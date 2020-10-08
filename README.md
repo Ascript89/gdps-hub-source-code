@@ -1,2 +1,2 @@
-# source-code
-The full source code of GDPS Hub
+# GDPS Hub source code
+The source code will be published once it's finished
